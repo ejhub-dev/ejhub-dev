@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Emmanuel!
+# I'm Emmanuel!
 
 **Frontend Developer**  
 React • Next.js • TypeScript • Tailwind CSS  
