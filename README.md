@@ -8,9 +8,9 @@ _Building Fast, Accessible & SEO-Friendly Web Apps_
 
 ![Profile views](https://komarev.com/ghpvc/?username=ejhub-dev&color=blueviolet)
 ![GitHub followers](https://img.shields.io/github/followers/ejhub-dev?label=Followers&style=social)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=web&logoColor=white)](https://your-portfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-emmanueljoseph)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/II_devguy)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=web&logoColor=white)](https://github.com/ejhub-dev)
 [![Gmail](https://img.shields.io/badge/email-emmanueljxx@gmail.com-red?logo=gmail&logoColor=white)](mailto:emmanueljxx@gmail.com)
 
 ---
