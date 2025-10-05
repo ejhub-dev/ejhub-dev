@@ -1,42 +1,71 @@
-# 👋 Hi, I'm Emmanuel Joseph!
+# 👋 Hi, I'm Emmanuel!
 
-I'm a passionate **Frontend Developer** who loves crafting intuitive and visually appealing user interfaces. My goal is to create seamless web experiences that delight users and solve real-world problems.
-
----
-
-## 🚀 Tech Stack
-
-- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
-- **Frameworks/Libraries:** React, Next.js, Vue.js, Redux, Tailwind CSS, Bootstrap
-- **Tools:** Git & GitHub, Figma, VS Code, Webpack, Vite, npm/yarn
-- **Testing:** Jest, React Testing Library, Cypress
+**Frontend Developer**  
+React • Next.js • TypeScript • Tailwind CSS  
+_Building Fast, Accessible & SEO-Friendly Web Apps_
 
 ---
 
-## 🛠️ What I Do
-
-- Build responsive, accessible, and high-performance web applications
-- Turn UI/UX designs into pixel-perfect components
-- Collaborate with teams using agile workflows and modern tooling
-- Stay up to date with the latest frontend trends and best practices
-
----
-
-## 🌱 Currently Learning
-
-- Advanced React patterns
-- Web performance optimization
-- Exploring backend with Node.js & Express
+![Profile views](https://komarev.com/ghpvc/?username=ejhub-dev&color=blueviolet)
+![GitHub followers](https://img.shields.io/github/followers/ejhub-dev?label=Followers&style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-222?logo=web&logoColor=white)](https://your-portfolio.com)
+[![Gmail](https://img.shields.io/badge/email-emmanueljxx@gmail.com-red?logo=gmail&logoColor=white)](mailto:emmanueljxx@gmail.com)
 
 ---
 
-## 📫 Let's Connect!
+## 🙋‍♂️ About Me
 
-- [Portfolio](https://your-portfolio-link.com)
-- [LinkedIn](https://linkedin.com/in/your-profile)
-- [Twitter/X](https://twitter.com/II_devguy)
-- [Email](mailtoll: emmanueljxx@gmail.com)
+I'm a web developer who loves turning complex challenges into clean, elegant web applications. My favorite part of the job is building something from the ground up and seeing it come to life, pixel by pixel.
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejhub-dev&layout=compact&theme=tokyonight)
+## 🛠️ Tech Stack
+
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000?logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+- **Frontend:** React, Next.js, TypeScript, Tailwind CSS  
+- **Backend (when needed):** Node.js  
+- **Focus:** Performance, SEO, Accessibility
+
+---
+
+## 🚀 Projects Showcase
+
+### [Project One](https://github.com/ejhub-dev/project-one)
+> **Next.js dashboard** with real-time analytics, custom charts, and authentication.  
+> <sub>Tech: Next.js, React, Tailwind CSS, Chart.js</sub>
+
+### [LandingPro](https://github.com/ejhub-dev/landingpro)
+> **Responsive landing page generator** for startups and portfolios.  
+> <sub>Tech: TypeScript, React, Styled-Components</sub>
+
+### [Web3 Wallet Connect](https://github.com/ejhub-dev/web3-wallet-connect)
+> **Web3 integration** for wallet login and live data feeds.  
+> <sub>Tech: React, ethers.js, Tailwind CSS</sub>
+
+> _See more projects on [my GitHub](https://github.com/ejhub-dev?tab=repositories)!_
+
+---
+
+## 🏆 Stats & Visuals
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ejhub-dev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejhub-dev&layout=compact&theme=radical)
+
+---
+
+## 👀 Philosophy
+
+Great code is more than just functional, it's readable, maintainable, and a joy to work with. I’m excited by collaboration and always learning new things from the people I work with.
+
+---
+
+## 📫 Connect with Me!
+
+If you're building something cool or want to chat about web development, feel free to [email me](mailto:emmanueljxx@gmail.com) or connect via [LinkedIn](https://www.linkedin.com/in/dev-emmanueljoseph)!
