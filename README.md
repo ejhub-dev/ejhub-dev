@@ -1,16 +1,42 @@
-## Hi there 👋
+# 👋 Hi, I'm Emmanuel Joseph!
 
-<!--
-**ejhub-dev/ejhub-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Frontend Developer** who loves crafting intuitive and visually appealing user interfaces. My goal is to create seamless web experiences that delight users and solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+
+- **Languages:** JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
+- **Frameworks/Libraries:** React, Next.js, Vue.js, Redux, Tailwind CSS, Bootstrap
+- **Tools:** Git & GitHub, Figma, VS Code, Webpack, Vite, npm/yarn
+- **Testing:** Jest, React Testing Library, Cypress
+
+---
+
+## 🛠️ What I Do
+
+- Build responsive, accessible, and high-performance web applications
+- Turn UI/UX designs into pixel-perfect components
+- Collaborate with teams using agile workflows and modern tooling
+- Stay up to date with the latest frontend trends and best practices
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced React patterns
+- Web performance optimization
+- Exploring backend with Node.js & Express
+
+---
+
+## 📫 Let's Connect!
+
+- [Portfolio](https://your-portfolio-link.com)
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Twitter/X](https://twitter.com/II_devguy)
+- [Email](mailtoll: emmanueljxx@gmail.com)
+
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejhub-dev&layout=compact&theme=tokyonight)
